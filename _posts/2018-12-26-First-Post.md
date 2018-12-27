@@ -1,5 +1,5 @@
 ---
-title: Design Thinking 방법론
+title: Design Thinking method
 ---
 
 # 1 주차 Reflection
